@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NathanielSocash
 - 👀 I’m interested in Mathematical Applications (euclidean, spherical, and hyperbolic geometry; graph theory and general linear algebra applications), 
-                       Human Geography, GIS, Cartography, and Spatial Analysis,
-                       Programming
+-                      Human Geography, GIS, Cartography, and Spatial Analysis,
+-                      Programming
 - 🌱 I’m currently learning Python, Java, C++, ArcGIS
 - 📫 How to reach me ...
 
