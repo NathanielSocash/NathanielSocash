@@ -33,8 +33,8 @@
       <h2>Interests</h2>
       <ul>
         <li>Programming</li>
-        <li>Human Georgraphy / Cartography 🌱</li>
         <li>Machine Learning / Neural Networks 🧠</li>
+        <li>Human Georgraphy / Cartography 🌱</li>
       </ul>
     </div>
     <div class="section" align="left">
