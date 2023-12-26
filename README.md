@@ -14,7 +14,7 @@
   </a>
 </div>
 
- <img src="https://komarev.com/ghpvc/?username=NathanielSocash&base=1000&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=NathanielSocash&base=3000&style=flat-square&color=blue" alt=""/>
  
  <h1>
   Welcome
