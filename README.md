@@ -28,7 +28,7 @@
     <div class="section" align="left">
       <h2>About Me</h2>
       <p> 👋 Hi, I’m Nathaniel Socash</p>
-      <p> - Graduated with Bachelor's degree in computer science at Southern Arkansas University</p>
+      <p> - Bachelor's degree in computer science at Southern Arkansas University</p>
     </div>
     <div class="section" align="left">
       <h2>Interests</h2>
